@@ -92,3 +92,5 @@ p_s = Date[e(496)](new Date)[e(517)]();
 ## Tips
 
 能力有限，分享粗糙的代码和简单的解题思路By tamya2020。
+
+![战绩展示.png](http://tva1.sinaimg.cn/large/007nbYLzly1h9p9ym2bqhj3073043dg0.jpg)
